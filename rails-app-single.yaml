@@ -208,7 +208,7 @@ parameters:
     label: Kitchen URL
     description: "URL for a git repo containing required cookbooks"
     type: string
-    default: https://github.com/rackspace-orchestration-templates/rails-app-single
+    default: https://github.com/rackspace-orchestration-templates/rails-app-single-rc
 
   chef_version:
     label: Chef Version
